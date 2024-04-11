@@ -52,4 +52,4 @@ new_t = t
 new_t[0][0] = 2
 print(t[0][0])
 ```  
-   \- 위 코드의 실행 결과는 2가 나온다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- 위 코드의 실행 결과는 2가 나온다.
